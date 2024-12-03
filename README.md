@@ -6,7 +6,7 @@ Richie Pranata
 TI.24.A.5
 
 # Flowchart
-![foto]()
+![foto](https://raw.githubusercontent.com/rich-pro12/foto1/1ed228993f2fd39a63b1c0d6e1e35b75ce15356e/Screenshot%202024-12-04%20011528.png)
 
 # Header dan Kelas Student 
 ``` pyhton
