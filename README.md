@@ -117,6 +117,8 @@ Ubah (u): Mengubah data mahasiswa berdasarkan Nama yang diberikan. Jika Nama dit
 Hapus (h): Menghapus data mahasiswa berdasarkan Nama yang diberikan. Jika Nama ditemukan, data mahasiswa dihapus dari daftar students.
 Keluar (k): Keluar dari program.
 
-#Code Program 
+# Code Program 
+
 ![Foto](https://raw.githubusercontent.com/rich-pro12/foto1/a5362416bc5986f6afb8d79cb6a8293300480a20/Screenshot%202024-12-04%20011923.png)
-![Foto]()
+
+![Foto](https://raw.githubusercontent.com/rich-pro12/foto1/bb293ce7131a0390fdc95c66fa48154ee9e1d6d9/Screenshot%202024-12-04%20012123.png)
