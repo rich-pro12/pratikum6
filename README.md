@@ -118,5 +118,5 @@ Hapus (h): Menghapus data mahasiswa berdasarkan Nama yang diberikan. Jika Nama d
 Keluar (k): Keluar dari program.
 
 #Code Program 
-![Foto]()
+![Foto](https://raw.githubusercontent.com/rich-pro12/foto1/a5362416bc5986f6afb8d79cb6a8293300480a20/Screenshot%202024-12-04%20011923.png)
 ![Foto]()
